@@ -9,11 +9,11 @@ const PricingOptions = ({ pricingPromise }) => {
   // console.log(pricingData);
 
   return (
-    <div>
+    <div className='mt-25'>
 
       <h2 className='text-5xl text-center'>Get Our Membership</h2>
 
-      <div className='grid md:grid-cols-2 lg:grid-cols-3 gap-8'>
+      <div className='grid md:grid-cols-2 lg:grid-cols-3 gap-8 mt-8'>
 
         {/* {
           pricingData.map(pricing => <PricingCards key={pricing.id} pricing={pricing}></PricingCards>)

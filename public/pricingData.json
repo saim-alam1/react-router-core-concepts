@@ -7,8 +7,6 @@
     "features": [
       "Full access to gym equipment",
       "Locker room and shower access",
-      "Open 6 AM – 9 PM",
-      "1 guest pass/month",
       "Free Wi-Fi",
       "Access to fitness app"
     ]
@@ -16,6 +14,7 @@
   {
     "id": 2,
     "name": "Standard Plan",
+    "popular": true,
     "price": "$59/month",
     "description": "A balanced plan with classes and 24/7 flexibility.",
     "features": [
@@ -23,8 +22,7 @@
       "Open 24/7 access",
       "Unlimited group fitness classes",
       "Towel and laundry service",
-      "2 guest passes/month",
-      "Free entry to monthly gym events"
+      "2 guest passes/month"
     ]
   },
   {

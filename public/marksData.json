@@ -1,0 +1,92 @@
+[
+  {
+    "student_id": 1,
+    "student_name": "John Doe",
+    "subjects": {
+      "Physics": 87,
+      "Chemistry": 80,
+      "Biology": 75
+    }
+  },
+  {
+    "student_id": 2,
+    "student_name": "Jane Smith",
+    "subjects": {
+      "Physics": 73,
+      "Chemistry": 70,
+      "Biology": 85
+    }
+  },
+  {
+    "student_id": 3,
+    "student_name": "Alice Johnson",
+    "subjects": {
+      "Physics": 92,
+      "Chemistry": 88,
+      "Biology": 90
+    }
+  },
+  {
+    "student_id": 4,
+    "student_name": "Bob Brown",
+    "subjects": {
+      "Physics": 68,
+      "Chemistry": 65,
+      "Biology": 72
+    }
+  },
+  {
+    "student_id": 5,
+    "student_name": "Charlie Davis",
+    "subjects": {
+      "Physics": 81,
+      "Chemistry": 85,
+      "Biology": 79
+    }
+  },
+  {
+    "student_id": 6,
+    "student_name": "Eve White",
+    "subjects": {
+      "Physics": 95,
+      "Chemistry": 93,
+      "Biology": 90
+    }
+  },
+  {
+    "student_id": 7,
+    "student_name": "Frank Green",
+    "subjects": {
+      "Physics": 77,
+      "Chemistry": 82,
+      "Biology": 79
+    }
+  },
+  {
+    "student_id": 8,
+    "student_name": "Grace Lee",
+    "subjects": {
+      "Physics": 84,
+      "Chemistry": 80,
+      "Biology": 86
+    }
+  },
+  {
+    "student_id": 9,
+    "student_name": "Henry King",
+    "subjects": {
+      "Physics": 90,
+      "Chemistry": 92,
+      "Biology": 88
+    }
+  },
+  {
+    "student_id": 10,
+    "student_name": "Ivy Scott",
+    "subjects": {
+      "Physics": 66,
+      "Chemistry": 70,
+      "Biology": 68
+    }
+  }
+]
